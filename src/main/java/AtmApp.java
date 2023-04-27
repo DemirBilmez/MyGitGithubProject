@@ -14,6 +14,7 @@ public class AtmApp {
         //dmr3
         System.out.println();
         if (true)git
+            //remote değişiklik yaptım
 
 
 
